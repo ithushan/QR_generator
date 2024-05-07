@@ -1,1 +1,1 @@
-# QR_generator
+# QR-generate
